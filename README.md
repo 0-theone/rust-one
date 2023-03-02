@@ -18,3 +18,9 @@ Just a Rust playground - is Rust language really safe?
 - No out of bound access
 - No buffer overflows
 - No data races
+
+### Table of Contents
+`B` - Beginner, `A` - Advanced
+
+* **Rust Overview**
+  * `B` [Bit Manipulation](src/start) - Rust is a systems-level programming language.
