@@ -23,4 +23,4 @@ Just a Rust playground - is Rust language really safe?
 `B` - Beginner, `A` - Advanced
 
 * **Rust Overview**
-  * `B` [Bit Manipulation](src/start) - Rust is a systems-level programming language.
+  * `B` [Systems-level](src/start) - Rust is a systems-level programming language.
